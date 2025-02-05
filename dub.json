@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Kazuki Komatsu"
+	],
+	"copyright": "Copyright © 2025, Kazuki Komatsu",
+	"description": "Header file for libhackrf",
+	"license": "BSD 3-clause",
+	"name": "hackrf",
+	"libs":[
+		"hackrf"
+	]
+}
